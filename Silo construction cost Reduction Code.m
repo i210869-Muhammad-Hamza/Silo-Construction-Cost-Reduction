@@ -1,4 +1,4 @@
-disp("Made by MUHAMMAD HAMZA 21I-0869 USMAN ISHRAT 21I-2981  MUHAMMAD UZAIR 21I-0625") %This will display the student id's
+disp("Made by MUHAMMAD HAMZA) %This will display the student id's
 start=input('Press any key to continue :','s'); %The  user will input any key to further run the program
 disp("Do you want to run the program or terminate the program") %this will ask user if he wants to run or terminte the prog
 disp("1:Run the silo optimization Program")
