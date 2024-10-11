@@ -1,3 +1,6 @@
+![silo2](https://github.com/user-attachments/assets/543fd073-7235-4c92-9774-a78ec2132080)
+![silo3](https://github.com/user-attachments/assets/55d44fd5-f471-408a-8a21-e8940b8fe8a8)
+
 Silo Construction Cost Reduction
 
 This project focuses on reducing the construction costs of silos by optimizing their geometric dimensions. By minimizing the radius and width of the silo, we achieve a significant reduction in the overall cost. The solution is developed using MATLAB and involves mathematical modeling and optimization techniques.
